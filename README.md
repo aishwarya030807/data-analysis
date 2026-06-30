@@ -44,10 +44,17 @@ Built X/y from the cleaned data, split it 80/20 (`random_state=42`, stratified s
 KNN and SVM both got everything right on the test set, Logistic Regression missed one, and the Decision Tree mixed up Versicolor and Virginica a couple times — which tracks, since those two species overlap the most.
 
 Worth flagging: the test set here is only 30 samples, so "100% accuracy" isn't as impressive as it sounds — on a bigger or noisier dataset these numbers would move around more. Wouldn't read too much into the exact ranking without cross-validation.
+## Model Accuracy Comparison
 
-![Accuracy comparison](accuracy_comparison.png)
-![Confusion matrices](confusion_matrices.png)
-![Decision tree](decision_tree_structure.png)
+![Accuracy Comparison](image/accuracy_comparison.png)
+
+## Confusion Matrices
+
+![Confusion Matrices](image/confusion_matrices.png)
+
+## Decision Tree Structure
+
+![Decision Tree Structure](image/decision_tree_structure.png)
 
 ## Running it
 
