@@ -69,3 +69,7 @@ python iris_ml_classification.py
 - Hyperparameter tuning for KNN and SVM
 - Try scaling the features and see if it changes anything
 - Maybe throw in Random Forest or Naive Bayes for comparison
+
+## Analysis done by 
+M.S. Aishwarya Sri
+
