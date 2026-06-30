@@ -1,4 +1,4 @@
-# Iris EDA + ML Classification Project
+# Iris Flower Classification: Exploratory Data Analysis and Machine Learning
 
 A small end-to-end project on the Iris dataset — first exploring the data, then building and comparing a few classification models on it with Scikit-learn.
 
